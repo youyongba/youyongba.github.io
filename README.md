@@ -2,4 +2,4 @@
 * [介绍](README.md)
 
 # 目录
-* [github博客搭建](https://youyongba.github.io/GitHubBlog/)
+* [github博客搭建](https://youyongba.github.io/doc/)
